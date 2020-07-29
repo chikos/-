@@ -2,7 +2,7 @@ body{
   font-family: "Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
   margin: 0;
   padding: 20px;
-  background-color: #ddd;
+  background-color: rgb(236, 203, 252);
   line-height: 1.8;
 }
 
@@ -12,7 +12,7 @@ img{
 }
 
 img.frame{
-  border: 1px solid #ccc;
+  border: 1px solid rgb(63, 63, 63);
 }
 
 #container{
@@ -21,7 +21,8 @@ img.frame{
 }
 
 .info{
-  background-color: #fff;
+  color: cornflowerblue;
+  background-color: rgb(238, 254, 255);
   padding: 20px;
   margin-bottom: 10px;
   border-radius: 5px;
@@ -31,7 +32,7 @@ img.frame{
   margin-bottom: 10px;
   padding-bottom: 10px;
   font-size: 1.2em;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid rgb(121, 97, 255);
 }
 
 .btns{
@@ -39,7 +40,7 @@ img.frame{
 }
 
 .btns .btn{
-  color: #666;
+  color: rgb(62, 8, 255);
 }
 
 .btns .next{
